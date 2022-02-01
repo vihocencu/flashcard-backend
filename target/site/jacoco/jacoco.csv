@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+flashcards,com.example.demo.model,FlashCard,28,3,0,0,12,1,8,1,8,1
+flashcards,com.example.demo.repository,FlashCardController,9,3,0,0,2,1,2,1,2,1
+flashcards,com.example.demo.repository,ClassificationController,4,3,0,0,2,1,2,1,2,1
+flashcards,com.example.demo,DemoApplication.new WebMvcConfigurer() {...},0,18,0,0,0,3,0,2,0,2
+flashcards,com.example.demo,DemoApplication,5,8,0,0,2,2,1,2,1,2

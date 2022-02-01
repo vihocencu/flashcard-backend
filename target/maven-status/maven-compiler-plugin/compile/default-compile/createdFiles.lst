@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/repository/FlashCardController.class
+com/example/demo/DemoApplication$1.class
+com/example/demo/repository/ClassificationController.class
+com/example/demo/repository/FlashCardRepository.class
+com/example/demo/model/FlashCard.class
